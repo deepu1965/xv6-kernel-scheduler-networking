@@ -335,4 +335,9 @@ This project makes use of non-blocking sockets (or alternatively, threads) to al
 - For testing purposes, ACKs are randomly skipped (e.g., every third chunk) to demonstrate the retransmission mechanism. Be sure to comment out the ACK skipping code before submitting.
 
 ### AI Tools links
-
+![Screenshot from 2024-10-14 22-16-26](https://github.com/user-attachments/assets/2bf3e217-eee2-46eb-bfa8-9b9478154ba6)
+![Screenshot from 2024-10-14 22-16-44](https://github.com/user-attachments/assets/5520a0e4-d039-484b-b1ba-948b69d6982d)
+![Screenshot from 2024-10-14 22-19-53](https://github.com/user-attachments/assets/3c644611-0de5-4e5d-ab9c-c5c4edfb3ee9)
+![Screenshot from 2024-10-14 22-20-15](https://github.com/user-attachments/assets/a8d431b5-986d-4148-a537-f2231bb42d8f)
+![Screenshot from 2024-10-14 22-25-26](https://github.com/user-attachments/assets/f69f15df-ecc2-41ef-ad65-ff8ee59a9ce7)
+![Screenshot from 2024-10-14 22-28-00](https://github.com/user-attachments/assets/29b0c282-82db-44e5-b9e0-5ee901a3c05c)
