@@ -350,4 +350,7 @@ This project makes use of non-blocking sockets (or alternatively, threads) to al
 ![Screenshot from 2024-10-14 22-19-53](https://github.com/user-attachments/assets/3c644611-0de5-4e5d-ab9c-c5c4edfb3ee9)
 ![Screenshot from 2024-10-14 22-20-15](https://github.com/user-attachments/assets/a8d431b5-986d-4148-a537-f2231bb42d8f)
 ![Screenshot from 2024-10-14 22-25-26](https://github.com/user-attachments/assets/f69f15df-ecc2-41ef-ad65-ff8ee59a9ce7)
-![Screenshot from 2024-10-14 22-28-00](https://github.com/user-attachments/assets/29b0c282-82db-44e5-b9e0-5ee901a3c05c)
+![Screenshot from 2024-10-14 22-28-00](https://github.com/user-attachments/assets/29b0c282-82db-44e5-b9e0-5ee901a3c05c)![4dfc421b-a03c-4443-941d-6f08ab89c9d9](https://github.com/user-attachments/assets/8dbe24a3-8c78-4820-aed3-dbad4e1f47b5)
+
+![9dde9807-ee46-4cfd-929b-2235195d40d3](https://github.com/user-![c2de3a3a-9f12-4117-a56e-520da06a409d](https://github.com/user-attachments/assets/edac01be-ede4-486e-8328-d046c09f23ec)
+attachments/assets/2aed7908-5fbf-4774-b118-8b1bf180b45f)
