@@ -268,17 +268,27 @@ This project implements a simplified Multilevel Feedback Queue (MLFQ) scheduler 
   
 - **trap.c**:
   - Timer interrupt handling to enforce time slices and trigger the scheduler when needed.
-CPU=1
-|         RR         |       LBS          |       MLFQ          |
-|--------------------|--------------------|---------------------|
-| rtime=20,wtime=185 | rtime=20,wtime=156 | rtime=20,wtime= 113 |
-| rtime=20,wtime=180 | rtime=21,wtime=157 | rtime=20,wtime=119  |
-CPU=3
-|        RR          |         LBS         | 
-|--------------------|---------------------|
-| rtime=27,wtime=71  |  rtime=11,wtime=67  |
-| rtime=28,wtime=72  |  rtime=16,wtime=79  | 
-## PART-B[NETWORKING]
+## Performance Comparison
+
+### CPU = 1
+
+| Scheduler | Run 1 (rtime, wtime)   | Run 2 (rtime, wtime)   |
+|-----------|------------------------|------------------------|
+| RR        | rtime=20, wtime=185     | rtime=20, wtime=180    |
+| LBS       | rtime=20, wtime=156     | rtime=21, wtime=157    |
+| MLFQ      | rtime=20, wtime=113     | rtime=20, wtime=119    |
+
+### CPU = 3
+
+| Scheduler | Run 1 (rtime, wtime)   | Run 2 (rtime, wtime)   |
+|-----------|------------------------|------------------------|
+| RR        | rtime=27, wtime=71      | rtime=28, wtime=72     |
+| LBS       | rtime=11, wtime=67      | rtime=16, wtime=79     |
+
+### MLFQ IMAGE
+
+## PART-B[NETWORKING]![ea0cb307-9bd8-42f4-ab1d-14c068f16344](https://github.com/user-attachments/assets/bbd66d41-d601-48d8-9b0b-4fd652fd76dc)
+
 # Tic-Tac-Toe Multiplayer Game
 This is a simple multiplayer Tic-Tac-Toe game implemented with networking concepts. The game includes a server to manage the game state and two clients (players) who compete against each other.
 ## Overview
